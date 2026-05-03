@@ -1,0 +1,7 @@
+# Project Antigravity Gitignore
+.DS_Store
+node_modules/
+dist/
+.env
+*.log
+scratch/

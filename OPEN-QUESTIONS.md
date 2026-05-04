@@ -80,3 +80,26 @@ No formal application or payment. Quality through curation, not gatekeeping.
 **Decision: Confirmed.**
 - Telegram = community hub (all members, bots, discussions, signals)
 - WhatsApp = India warm circle only (Satya's close Mumbai contacts, max ~20–30 people)
+
+---
+
+## 8. Expert Pipeline Strategy *(Backlog — think before Phase 2)*
+
+The idea: invite company professionals, professors, and SC experts to sessions not as keynote speakers but as participants. Light ask, low friction, high value for both sides.
+
+**The compounding logic:**
+- Phase 1: they attend, see real work, no commitment asked
+- Phase 2: ask for 20 mins of feedback on a case write-up
+- Phase 3: ask if they'd sit on an advisory structure
+
+**Dual benefit:**
+- Community credibility grows with every senior person who walks through the door
+- Members get direct SC professional exposure — relevant for job search and mentorship
+- Each interaction is a warm relationship that can be activated later
+
+**Questions to answer before activating:**
+- Who is the first expert we invite, and through what warm intro?
+- Do we run Practitioner Network sessions separately or fold them into SC Deep Dives?
+- How do we track the expert pipeline without it feeling transactional?
+
+See [EVENTS.md](./EVENTS.md) — Format 5: SC Practitioner Network Session for full format spec.

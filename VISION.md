@@ -13,12 +13,24 @@ Existing communities fall into one of three categories:
 None of these serve the practitioner who has a real procurement challenge, a logistics problem, a supplier risk question, or a disruption they are trying to make sense of.
 
 ## The Opportunity
-
 The last three years have made supply chain visible to everyone. COVID-19 disruptions, the Suez Canal blockage, the Red Sea crisis, semiconductor shortages, and now the China+1 shift and US tariff volatility have all pushed supply chain from back-office function to boardroom agenda.
 
 At the same time, a new generation of MBA graduates is entering supply chain, operations, and consulting roles — many of them with global backgrounds and multi-sector exposure. They are looking for a peer network that matches their ambition and their reality.
 
 That is the gap this community fills.
+
+## The "Operations Community Builder"
+We are adopting a role pioneered in tech but desperately needed in operations: the **Community Builder**.
+
+In tech, companies like Y Combinator and OpenAI hire Community Builders to foster developer ecosystems. These are not "Social Media Managers" or "HR staff"—they are strategic operators who bridge the gap between technical products and the humans who use them. In the US, these roles command salaries between **$90K and $160K**, signaling their high value.
+
+**Project Antigravity** applies this model to the supply chain. We don't just "manage" a group; we "build" a high-velocity practitioner ecosystem where knowledge compounds.
+
+## The Gap: Why This Works for Operations
+Supply chain knowledge has traditionally been siloed within companies or behind expensive consulting gates. By creating an **Operations Community of Practice**, we break these silos using the same principles that built the world's most successful tech communities:
+- **Bias for Action**: Moving from "passive networking" to "active problem solving."
+- **Rigorous Curation**: Ensuring every member is a practitioner who brings real-world signal.
+- **Output-Driven**: Every interaction must produce a reusable framework or case study.
 
 ## What We Are Building
 

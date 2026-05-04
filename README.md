@@ -49,7 +49,7 @@ Together, Madrid and Mumbai sit on one of the most watched supply chain corridor
 - [x] Event formats outlined
 - [x] Platform stack decided
 - [x] India co-lead conversation initiated
-- [ ] GitHub repo live
+- [x] GitHub repo live and filled
 - [ ] Founding member shortlist finalised
 - [ ] First founding session scheduled
 
@@ -68,23 +68,40 @@ Together, Madrid and Mumbai sit on one of the most watched supply chain corridor
 
 ## Quick Links
 
+### Identity & Strategy
 - [Vision](./VISION.md)
-- [Roadmap](./ROADMAP.md)
 - [Charter](./CHARTER.md)
+- [Founding Story](./FOUNDING-STORY.md)
+- [Roadmap](./ROADMAP.md)
+- [Open Questions](./OPEN-QUESTIONS.md)
+
+### People
 - [Team](./TEAM.md)
+- [Advisors](./ADVISORS.md)
 - [India Chapter](./chapters/INDIA-CHAPTER.md)
 - [Madrid Chapter](./chapters/MADRID-CHAPTER.md)
-- [Events](./EVENTS.md)
-- [Content Engine](./operations/CONTENT-ENGINE.md)
-- [Partnerships](./PARTNERSHIPS.md)
-- [Outreach](./operations/OUTREACH.md)
-- [Advisors](./ADVISORS.md)
-- [Founding Story](./FOUNDING-STORY.md)
-- [Open Questions](./OPEN-QUESTIONS.md)
+
+### Events & Programming
+- [Event Formats](./EVENTS.md)
+- [Roundtable Template](./docs/roundtable-template.md)
+- [Case Write-up Template](./docs/case-writeup-template.md)
+
+### Operations
 - [First 90 Days](./docs/first-90-days.md)
-- [Current Status](./updates/2026-05-status.md)
+- [Platform Stack](./operations/PLATFORM-STACK.md)
+- [Content Engine](./operations/CONTENT-ENGINE.md)
+- [Outreach & Message Templates](./operations/OUTREACH.md)
+- [Member Tracker & Tier System](./operations/MEMBER-TRACKER.md)
+- [Telegram Bots](./operations/TELEGRAM-BOTS.md)
+- [Metrics](./operations/METRICS.md)
+- [Partnerships](./PARTNERSHIPS.md)
+
+### Knowledge Base
 - [SC Frameworks Reference](./resources/frameworks.md)
 - [Reading List](./resources/reading-list.md)
+
+### Updates
+- [Current Status — May 2026](./updates/2026-05-status.md)
 
 ---
 

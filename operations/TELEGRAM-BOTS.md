@@ -189,6 +189,54 @@ Glad you're here.
 
 ---
 
+## Bot 7: Disruption Keyword Monitor *(Phase 3)*
+
+**Purpose**: Passively scan SC news feeds for high-signal keywords and alert the community when something significant is detected — moves from scheduled delivery to event-triggered intelligence.
+
+**Trigger**: Keyword match in monitored RSS/news sources
+
+**Keywords to monitor**: "delay", "force majeure", "shortage", "port congestion", "factory shutdown", "sanctions", "tariff", "logistics disruption", "stockout", "supplier default"
+
+**Message format**:
+```
+🚨 SC Disruption Alert
+
+Keyword detected: [keyword]
+Source: [publication]
+Headline: [headline]
+
+[One-line summary]
+
+🔗 [link]
+
+💬 Anyone with exposure to this? Reply below.
+```
+
+**Build timeline**: Phase 3 (Month 6+)
+**Complexity**: Medium-High — continuous feed monitoring, deduplication, relevance filtering
+
+---
+
+## Bot 8: Knowledge Query Bot *(Phase 3 / Advanced)*
+
+**Purpose**: Allow members to query the community's accumulated case write-ups, frameworks, and session outputs via natural language — turns the GitHub archive into a searchable knowledge base.
+
+**Trigger**: Member sends `/ask [question]` in the Telegram group
+
+**Example queries**:
+- `/ask what frameworks have we used for procurement decisions?`
+- `/ask has anyone worked on cold chain logistics in India?`
+- `/ask what did we conclude about SC resilience vs efficiency tradeoffs?`
+
+**Architecture**: RAG (Retrieval-Augmented Generation) — GitHub markdown files indexed into a vector database, queried via OpenAI/Gemini API
+
+**Build timeline**: Phase 3 (Month 9+) — requires sufficient archive depth to be useful
+**Complexity**: High — vector DB setup, document chunking, LLM integration, Supabase for metadata
+
+**Note**: This bot becomes genuinely valuable only once the community has 10+ session write-ups. Building it early is premature.
+
+---
+
 ## Tech Stack
 
 - **Language**: JavaScript (Node.js) — consistent with existing bot work
@@ -197,16 +245,20 @@ Glad you're here.
 - **Scheduler**: Cloudflare Cron Triggers for time-based bots
 - **GitHub integration**: GitHub Webhooks → Cloudflare Worker endpoint
 - **State storage** (for AMA bot): Cloudflare KV or Supabase
+- **Vector DB** (for Knowledge Query bot): Supabase pgvector
+- **LLM** (for Knowledge Query bot): OpenAI or Gemini API
 
 ---
 
 ## Build Order
 
-| Priority | Bot | Why |
-|----------|-----|-----|
-| 1 | SC Signal Bot | Keeps community active from day one with zero manual effort |
-| 2 | Event Reminder Bot | Removes admin burden immediately |
-| 3 | Case Prompt Bot | Drives weekly async engagement |
-| 4 | GitHub Update Bot | Connects the two main platforms |
-| 5 | Welcome Bot | Needed once member count grows beyond ~20 |
-| 6 | AMA Collector Bot | Only needed from Month 3 when AMA format begins |
+| Priority | Bot | Phase | Why |
+|----------|-----|-------|-----|
+| 1 | SC Signal Bot | Month 1 | Keeps community active from day one with zero manual effort |
+| 2 | Event Reminder Bot | Month 1 | Removes admin burden immediately |
+| 3 | Case Prompt Bot | Month 1 | Drives weekly async engagement |
+| 4 | GitHub Update Bot | Month 2 | Connects the two main platforms |
+| 5 | Welcome Bot | Month 2 | Needed once member count grows beyond ~20 |
+| 6 | AMA Collector Bot | Month 3 | Only needed when AMA format begins |
+| 7 | Disruption Keyword Monitor | Month 6+ | Requires tuned keyword list and news source setup |
+| 8 | Knowledge Query Bot | Month 9+ | Requires 10+ session write-ups to be useful |

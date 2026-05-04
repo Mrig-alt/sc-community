@@ -1,5 +1,11 @@
 # Founding Story
 
+## The Hook
+
+*The supply chain world is drowning in data but starving for practitioner intelligence.*
+
+---
+
 ## Where This Started
 
 Six months into an international MBA at IE Business School in Madrid, I found myself sitting in rooms with supply chain professionals from 40+ countries — people with experience in FMCG operations in Lagos, procurement in Riyadh, logistics in Seoul, manufacturing SC in Bangalore, and 3PL management in Rotterdam.

@@ -14,35 +14,39 @@ Requirements for the final name:
 - Professional enough for LinkedIn, approachable enough for WhatsApp
 - Does not sound like a certification body or corporate initiative
 
+Candidates in consideration:
+- **Workbench** — strongest brand, operator connotation, global
+- **Run Better** — strongest philosophy, action-oriented
+- **Operator Circle** — clearest community signal, slightly corporate
+
 Decision needed by: before first LinkedIn post goes live
 
 ---
 
-## 2. Mumbai Tech Week — First India Activation *(Urgent — May 25–28 2026)*
+## 2. Mumbai Tech Week — First India Activation
 
-Mumbai Tech Week runs May 25–28 2026. This is a live opportunity to run the first India chapter event as a fringe session.
+**Decision: Skipped.**
 
-**Options:**
-- Run a 15-person SC practitioner session as a fringe event during the week
-- Use the week to do discovery conversations only (no formal event yet)
-- Skip this window and plan a standalone Mumbai event in June
+Mumbai Tech Week (May 25–28 2026) was considered as a first India activation window. Decision made not to attend — founder is based in Madrid and India chapter activation is not the current priority.
 
-**What's needed to decide:**
-- Satya Prakash alignment — is he available and willing to co-host?
-- Venue — can we get a space attached to or near the Tech Week?
-- Minimum viable invite list — do we have 10–12 Mumbai SC contacts ready?
-
-Decision needed by: **May 10 2026** (15 days before the event)
+India chapter activation deferred until:
+- Madrid founding session is complete
+- Community has proof of concept and at least one published output
+- Satya Prakash has capacity to support (he assists but cannot drive execution)
 
 ---
 
-## 3. First India Event Format *(linked to Q2 above)*
+## 3. First India Event Format
 
-If not Mumbai Tech Week, options are:
+**Decision: Deferred.**
+
+Mid-May 2026 deadline passed without action. India chapter activation is on hold until the Madrid founding session is complete and the community has demonstrable proof.
+
+When India activation resumes, options remain:
 - Small SC roundtable (8–12 people, invited-only, Mumbai)
 - Informal dinner or mixer to validate interest first
 
-Decision needed by: mid-May 2026
+Satya Prakash will assist when capacity allows — he is not the primary executor.
 
 ---
 
@@ -61,7 +65,8 @@ Options:
 - Pitchless (co-host SC Sprint in Madrid)
 - Lovable-style SC software company (brand + tool in the room)
 - IE Career Services (institutional, co-promote events)
-- Mumbai Tech Week (first India event anchor)
+
+*(Mumbai Tech Week removed as an option — decision to skip confirmed May 2026)*
 
 ---
 
@@ -103,3 +108,19 @@ The idea: invite company professionals, professors, and SC experts to sessions n
 - How do we track the expert pipeline without it feeling transactional?
 
 See [EVENTS.md](./EVENTS.md) — Format 5: SC Practitioner Network Session for full format spec.
+
+---
+
+## 9. Carlos Vela — Academic Advisor Outreach
+
+**Status: Email sent May 19 2026. Awaiting reply.**
+
+Outreach framed around the World Supply Chain Chokepoint Map project (see [Issue #11](https://github.com/Mrig-alt/sc-community/issues/11)) — asking whether the project is worth pursuing given the proprietary data constraints.
+
+**Next steps if he responds positively:**
+- Share the full project scope and GitHub issue
+- Mention the community as the vehicle building this
+- Ask for his validation of the community direction
+- Make the advisor ask: 30 minutes per quarter, academic check-in only (see [ADVISORS.md](./ADVISORS.md))
+
+**Decision needed:** pending his reply

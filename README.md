@@ -1,6 +1,6 @@
-# Madrid–Mumbai Supply Chain Community
+# Workbench
 
-> *Most supply chain communities share articles. We solve problems.*
+> *Run Better Together.*
 
 A practitioner-first, chapter-based global supply chain community — built for people who work in, study, or are building careers in supply chain, operations, procurement, and logistics.
 
@@ -12,7 +12,7 @@ We run structured roundtables, cross-functional build sprints, and curated conne
 
 Supply chain knowledge is fragmented. Practitioners in FMCG, pharma, logistics, consulting, and manufacturing rarely talk to each other across sectors or geographies. Most SC communities are either too broad, too passive, or too focused on certifications. There is no modern, informal, practitioner-led space where real problems get diagnosed and real outputs get produced.
 
-This community exists to fill that gap.
+Workbench exists to fill that gap.
 
 ---
 
@@ -39,17 +39,29 @@ Together, Madrid and Mumbai sit on one of the most watched supply chain corridor
 
 ---
 
+## First Community Project
+
+**Global Supply Chain Chokepoint Map** — a structured, open-source knowledge graph and database mapping what flows through key global chokepoints (Suez, Panama), which commodities, which firms, and what breaks when they are disrupted.
+
+This is Workbench's first collaborative research initiative. It is a real, completable project built from public data — not a PhD program.
+
+→ See [Issue #11](https://github.com/Mrig-alt/sc-community/issues/11) for the full brief, data sources, schema, and how to contribute.
+
+---
+
 ## Current Stage
 
 **Phase 0 — Building the foundation (May 2026)**
 
 - [x] Community concept defined
+- [x] Community name confirmed: **Workbench**
 - [x] Two-city model confirmed
 - [x] Chapter structure designed
 - [x] Event formats outlined
 - [x] Platform stack decided
 - [x] India co-lead conversation initiated
 - [x] GitHub repo live and filled
+- [x] First community project scoped (Chokepoint Map — Issue #11)
 - [ ] Founding member shortlist finalised
 - [ ] First founding session scheduled
 
